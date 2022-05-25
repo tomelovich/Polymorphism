@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\bin\Debug\netcoreapp3.1\1-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\bin\Debug\netcoreapp3.1\1-Z.deps.json
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\bin\Debug\netcoreapp3.1\1-Z.runtimeconfig.json
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\bin\Debug\netcoreapp3.1\1-Z.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\bin\Debug\netcoreapp3.1\1-Z.dll
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\bin\Debug\netcoreapp3.1\1-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.dll
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\polymorphism\1-Z\obj\Debug\netcoreapp3.1\1-Z.genruntimeconfig.cache
